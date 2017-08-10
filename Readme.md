@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Комнатная](https://up.htmlacademy.ru/javascript/10/user/215761).
-* Наставник: `Неизвестно`.
+* Наставник: `Я`.
 
 ---
 
